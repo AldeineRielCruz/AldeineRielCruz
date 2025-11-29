@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Aldeine Riel Cruz 👋
 
-<!--
-**AldeineRielCruz/AldeineRielCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a BS-Information Techonology Student, an ameature programmer who is still learning. I love to learn new things, especially learning how to solve problems on my own based on examples.
 
-Here are some ideas to get you started:
+## Education
+- **BS Information Technology Student**
+  - New Era University
+  - 2024-Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://courses.cognitiveclass.ai/certificates/0b858caf26fb4932a7a995f355e9f06c)
+## Skill Sets
+- **Programming:** Java
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Eclipse, HTML
+
+## Let's Connect!
+- Email: cruz.aldeineriel@gmail.com
