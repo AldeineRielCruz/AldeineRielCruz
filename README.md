@@ -12,7 +12,7 @@ I am currently a BS-Information Techonology Student, an ameature programmer who 
 ## Skill Sets
 - **Programming:** Java
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Eclipse, HTML
+- **Tools:** Lucidchart, Eclipse, Figma
 
 ## Let's Connect!
 - Email: cruz.aldeineriel@gmail.com
