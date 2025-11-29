@@ -8,7 +8,7 @@ I am currently a BS-Information Techonology Student, a beginner programmer who i
   - 2024-Present
 
 ## Certifications
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://courses.cognitiveclass.ai/certificates/0b858caf26fb4932a7a995f355e9f06c)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/0b858caf26fb4932a7a995f355e9f06c)
 ## Skill Sets
 - **Programming:** Java
 - **Databases:** IBM DB2 Cloud
