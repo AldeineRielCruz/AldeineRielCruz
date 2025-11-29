@@ -1,6 +1,6 @@
 ## Hi there, I'm Aldeine Riel Cruz 👋
 
-I am currently a BS-Information Techonology Student, an ameature programmer who is still learning. I love to learn new things, especially learning how to solve problems on my own based on examples.
+I am currently a BS-Information Techonology Student, a beginner programmer who is still learning. I love to learn new things, especially learning how to solve problems on my own based on examples.
 
 ## Education
 - **BS Information Technology Student**
