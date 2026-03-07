@@ -13,7 +13,7 @@ I am currently a BS-Information Techonology Student, a beginner programmer who i
 - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF6F760576CFC119DBE75A9873868DCF1DDAEB9F69DCC09B90C1AEC444AE3620)
 - [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=003E2FC56BA120A87CF61299EB48705190C259125F421BD59D2F41F87B8A71BD)
 ## Skill Sets
-- **Programming:** Java
+- **Programming:** Java, JavaScript, HTML, CSS
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Eclipse, Figma
 
