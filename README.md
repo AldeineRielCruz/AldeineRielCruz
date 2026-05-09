@@ -19,5 +19,5 @@ I am Aldeine Riel Cruz, with a flair for coding and database management skills. 
 - **Tools:**  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## You may reach me at:
-LinkedIn: [Aldeine Cruz](https://ph.linkedin.com/in/aldeine-cruz-8b49002a2)
-Email: cruz.aldeineriel@gmail.com
+- LinkedIn: [Aldeine Cruz](https://ph.linkedin.com/in/aldeine-cruz-8b49002a2)  
+- Email: cruz.aldeineriel@gmail.com
