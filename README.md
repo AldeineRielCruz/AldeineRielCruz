@@ -12,7 +12,7 @@ I am Aldeine Riel Cruz, with a flair for coding and database management skills. 
 -  [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=95672A66DAD9231703FFE2B82818C38D60E672E37089AC769B9E32E37321FB61)
 - [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF6F760576CFC119DBE75A9873868DCF1DDAEB9F69DCC09B90C1AEC444AE3620)
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/ba52cec5f88e4358a0e93893255ccd77)
-  <!----> [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=003E2FC56BA120A87CF61299EB48705190C259125F421BD59D2F41F87B8A71BD)
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=003E2FC56BA120A87CF61299EB48705190C259125F421BD59D2F41F87B8A71BD)
 ## Skill Sets
 - **Programming:** Java, JavaScript
 - **Databases:** IBM DB2 Cloud
